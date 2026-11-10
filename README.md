@@ -1,6 +1,6 @@
 ﻿# Holmium File Explorer
 
-![Holmium Logo](_internal/icons/app/holmium-logo.png)
+![Holmium Logo](assets/holmium-logo.png)
 ![Screenshot 1: Settings](screenshots/holmium-settings.png)
 ![Screenshot 2: Search](screenshots/holmium-search.png)
 ![Screenshot 3: WinSxS](screenshots/holmium-winsxs.png)
