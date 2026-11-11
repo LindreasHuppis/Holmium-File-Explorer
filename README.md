@@ -24,5 +24,5 @@ Inspired by the aesthetics of VSCode Dark+ and the functionality of Total Comman
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YaroslavIshkov/Holmium.git
+   git clone https://github.com/LindreasHuppis/Holmium-File-Explorer.git
    cd Holmium
