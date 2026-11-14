@@ -5,7 +5,7 @@
 ![Screenshot 2: Search](screenshots/holmium-search.png)
 ![Screenshot 3: WinSxS](screenshots/holmium-winsxs.png)
 
-**Holmium** is a fast, minimalist, and cross-platform file manager written in Python using PySide2 (Qt).
+**Holmium** is a fast, minimalist, and cross-platform propietary (commercial) file manager written in Python using PySide2 (Qt).
 
 Inspired by the aesthetics of VSCode Dark+ and the functionality of Total Commander, Holmium is designed for those who lack the speed and convenience of standard Windows Explorer.
 
